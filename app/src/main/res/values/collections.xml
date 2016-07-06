@@ -1,0 +1,71 @@
+<resources>
+
+	<!-- Elementi per il menu di navigaizone -->    
+    <string-array name="nav_menu_items">
+        <item>nav_label_menu</item>
+        <item>nav_label_main</item>
+        <item>nav_label_second</item>
+        <item>nav_label_dessert</item>
+        <item>nav_label_wine</item>
+    </string-array>
+    
+    <!-- Elementi per lo slider delle immaigni per il menu MAIN -->
+    <string-array name="slider_image_main">
+        <item>main_1</item>
+        <item>main_2</item>
+        <item>main_3</item>
+    </string-array>
+    <string-array name="slider_text_main">
+        <item>label_main_1</item>
+        <item>label_main_2</item>
+        <item>label_main_3</item>
+    </string-array>
+    
+    
+    <!-- Elementi per lo slider delle immaigni per il menu SECOND -->
+    <string-array name="slider_image_second">
+        <item>second_1</item>
+        <item>second_2</item>
+        <item>second_3</item>
+    </string-array>
+     <string-array name="slider_text_second">
+        <item>label_second_1</item>
+        <item>label_second_2</item>
+        <item>label_second_3</item>
+    </string-array>
+    
+     
+    <!-- Elementi per lo slider delle immaigni per il menu DESSERT -->
+    <string-array name="slider_image_dessert">
+        <item>dessert_1</item>
+        <item>dessert_2</item>
+        <item>dessert_3</item>
+    </string-array>
+    <string-array name="slider_text_dessert">
+        <item>label_dessert_1</item>
+        <item>label_dessert_2</item>
+        <item>label_dessert_3</item>
+    </string-array>
+    
+    
+    <!-- Elementi per lo slider delle immaigni per il menu WINE -->
+    <string-array name="slider_image_wine">
+        <item>wine_1</item>
+        <item>wine_2</item>
+        <item>wine_3</item>
+    </string-array>
+    <string-array name="slider_text_wine">
+        <item>label_wine_1</item>
+        <item>label_wine_2</item>
+        <item>label_wine_3</item>
+    </string-array>
+    
+    <string-array name="poi_values">
+        <item>Locanda dei Fienili del Campiaro</item>
+        <item>Località Campiaro 112/c</item>
+        <item>Grizzana Morandi</item>
+        <item>44.250000</item>
+        <item>11.150000</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"></string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- NAVIGATION MENU LABELS -->
+    <string name="nav_label_menu">Menu</string>
+    <string name="nav_label_main">MAIN</string>
+    <string name="nav_label_second">SECOND</string>
+    <string name="nav_label_dessert">DESSERT</string>
+    <string name="nav_label_wine">WINE</string>
+    
+    <!-- MENU SLIDER LABELS -->
+    <string name="label_main_1">“Lasagne”\nHomemade Puff pastry layered with nettle beef ragu sauce and tomato</string>
+    <string name="label_main_2">“Maccheroncini”\nHomemade Pasta with asparagus ham and lemon</string>
+    <string name="label_main_3">“Tortelloni”\nHomemade Pasta with mushrooms ricotta cheese and spinach</string>
+    <string name="label_second_1">“Scaloppina”\nVeal with mushroom cream and truffle</string>
+    <string name="label_second_2">“Straccetti”\nBeef Tenderloin with rocket and parmesan cheese</string>
+    <string name="label_second_3">“Tagliata”\nBarbecued Beef Tenderloin with oil garlic and salt</string>
+    <string name="label_dessert_1">“Ice-Cream”\nChocolate ice cream with caramel and cinnamon</string>
+    <string name="label_dessert_2">“Mascarpone”\nSweet mascarpone made with eggs</string>
+    <string name="label_dessert_3">“Zuppa”\nSweet layered with custard cookie and sloe gin</string>
+    <string name="label_wine_1">“Barbaresco”\nStrong fruity wine suitable for meat</string>
+    <string name="label_wine_2">“Ribolla”\nSweet dessert wine</string>
+    <string name="label_wine_3">“Le Vaglie”\nLight and perfumed Dry wine suited to pasta</string>
+
+    <!-- ACTION BAR LABELS -->
+    <string name="label_actionbar_menu">Menu</string>
+    <string name="label_actionbar_opinion">Opinion</string>
+    <string name="label_actionbar_map">Map</string>
+
+    <!-- HOME LABELS -->
+    <string name="label_home_header_name">Locanda dei Fienili del Campiaro</string>
+    <string name="label_home_header_location">Grizzana Morandi</string>
+    <string name="label_home_header_contact_1">3486608847</string>
+    <string name="label_home_header_contact_2">3487534984</string>
+    <string name="label_home_header_separator"> - </string>
+
+    <!-- SLIDER LABELS -->
+    <string name="no_items">No items</string>
+    <string name="first_page">First</string>
+    <string name="last_page">Last</string>
+    <string name="demo_pager_title">Image Grid Pager</string>
+    <string name="demo_pager2_title">Image Grid Pager</string>
+    <string name="sample_topic_title">Sample Topic</string>
+    <string name="sample_topic_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a accumsan erat. Cras sollicitudin, purus eget ultrices pretium, mi leo suscipit enim, nec lacinia est nisl vel ipsum. Nullam auctor lobortis scelerisque. Sed laoreet ornare sodales. Proin consectetur lacus sem. Integer leo massa, venenatis ac auctor iaculis, ultricies in dolor. Nulla at nunc sapien. Vivamus eget dolor eros, dapibus scelerisque nisl. Praesent malesuada porttitor nisl, vitae pellentesque felis tempus quis. Maecenas felis nibh, aliquet ut vestibulum non, consectetur nec nibh. Maecenas pretium augue id lorem venenatis et euismod lectus varius. Fusce mollis erat elementum purus mattis ut cursus mauris iaculis. Sed vestibulum lectus quis lectus rutrum ac tempus risus rhoncus. Maecenas vel justo felis.</string>
+    <string name="title_activity_menu_slider">MenuSliderActivity</string>
+    <string name="title_activity_opinions">OpinionsActivity</string>
+
+    <!-- OPINION DETAIL LABELS -->
+    <string name="label_opinions_name">Name</string>
+    <string name="label_opinions_opinion">Your opinion</string>
+    <string name="label_opinions_button">Send</string>
+    <string name="message_opinions_ok">Opinion correctly sent</string>
+    <string name="message_opinions_ko">Error sending opinion.\nPlease try again</string>
+
+</resources>
